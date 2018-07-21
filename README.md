@@ -167,7 +167,7 @@ Explanation for each field:
 "poolHost": "your.pool.host",
 
 /* Used for storage in redis so multiple coins can share the same redis instance. */
-"coin": "graft",
+"coin": "fest",
 
 /* Used for front-end display */
 "symbol": "FEST",
