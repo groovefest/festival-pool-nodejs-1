@@ -100,13 +100,9 @@ Community / Support
 
 #### Pools Using This Software
 
-* https://imaginary.stream/
-* https://graft.anypool.net/
-* https://graft.dark-mine.su/
-* http://itns.proxpool.com/
-* https://bytecoin.pt
-* http://ita.minexmr24.ru/
-* https://pool.croatpirineus.cat
+* https://festival.multiminer.us
+* https://fest.go.minewithatlas.com
+
 
 Usage
 ===
