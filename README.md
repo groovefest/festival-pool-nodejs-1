@@ -159,7 +159,7 @@ npm update
 
 #### 2) Configuration
 
-Copy the `config_examples/COIN.json` file of your choice to `config.json` then overview each options and change any to match your preferred setup.
+The provided config.json file is already set up with most of the information you will need to run a festival coin pool. Below you will find an explanation of the fields
 
 Explanation for each field:
 ```javascript
