@@ -151,7 +151,7 @@ sudo su - your-user
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone hhttps://github.com/FestivalCoinDev/festival-pool-nodejs.git pool
+git clone https://github.com/FestivalCoinDev/festival-pool-nodejs.git pool
 cd pool
 
 npm update
